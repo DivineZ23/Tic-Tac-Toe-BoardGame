@@ -1,0 +1,7 @@
+-----------Tic Tac Toe ----------
+1.Display board. validated user inputs. Update board in each input.
+2.Added win and draw conditons. and check board.
+3.Main function done and play again conditon added.
+4.Currently done in CLI .
+
+planning to add a gui ... (pending)
